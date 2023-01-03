@@ -1,0 +1,472 @@
+D:\C#\BTL\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+E:\C#\BTL\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+E:\C#\BTL\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+E:\C#\BTL\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+E:\C#\BTL\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BTL\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+E:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+E:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+E:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+E:\C#\BTL\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+E:\C#\BTL\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_DangNhap.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+D:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+E:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+E:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BTL_Truoc23\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_DangNhap.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+E:\C#\BTL_Truoc23\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_DangNhap.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+E:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_Truoc23_611\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+E:\C#\BTL_Truoc23_611 (1)\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+E:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+E:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BTL_1911_Sau\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL_1911_Sau\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_2111\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL_2111\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL_2111\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_2111\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL_2111\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_2111\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+E:\C#\BTL_2111\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+E:\C#\BTL_2111\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_2111\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BTL_2111\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+E:\C#\BTL_2111\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+E:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+E:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+E:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\BTL_2111 (2)\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+E:\C#\BTL_2111 (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL_2111 (2) (2)\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe.config
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\bin\Debug\DuyThien_BTL.exe
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\bin\Debug\DuyThien_BTL.pdb
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\bin\Debug\Guna.UI2.dll
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.AssemblyReference.cache
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.SuggestedBindingRedirects.cache
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.ResolveComReference.cache
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Author.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.Form_ThongTinCaNhan.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.NhaCungCap.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyChatLieu.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKho.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLySanPham.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonBan.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.HoaDonNhap.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyKhachHang.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyNhanVien.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyTheLoai.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.QuanLyVocher.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.ThongKeDoanhThu.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Childen.DoiMatKhau.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Form_Login.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienBanHang.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_NhanVienKho.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.FormMain_QuanLy.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.Properties.Resources.resources
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.GenerateResource.cache
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CoreCompileInputs.cache
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\BTL_NHOM04.csproj.CopyComplete
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.exe
+D:\C#\BTL_LTTQ_NHOM12\DuyThien_BTL\obj\Debug\DuyThien_BTL.pdb

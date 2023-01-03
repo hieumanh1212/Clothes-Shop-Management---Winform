@@ -1,0 +1,17 @@
+E:\C#\BTL\BTL\bin\Debug\BTL.exe.config
+E:\C#\BTL\BTL\bin\Debug\BTL.exe
+E:\C#\BTL\BTL\bin\Debug\BTL.pdb
+E:\C#\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+E:\C#\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+E:\C#\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\C#\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\C#\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\C#\BTL\BTL\obj\Debug\BTL.exe
+E:\C#\BTL\BTL\obj\Debug\BTL.pdb
+E:\C#\BTL\BTL\bin\Debug\Guna.UI2.dll
+E:\C#\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+E:\C#\BTL\BTL\obj\Debug\BTL.FormCha.resources
+E:\C#\BTL\BTL\obj\Debug\BTL.FormCon.FormCon.resources
+E:\C#\BTL\BTL\obj\Debug\BTL.TestMenu.resources
+E:\C#\BTL\BTL\obj\Debug\BTL.Form1.resources
+E:\C#\BTL\BTL\bin\Debug\FontAwesome.Sharp.dll

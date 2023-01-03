@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL", "BTL\BTL.csproj", "{9B93A33B-0391-47BE-951F-6700AF785186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL_NHOM04", "DuyThien_BTL\BTL_NHOM04.csproj", "{7BD96047-2445-44A4-9F39-37536632711C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B93A33B-0391-47BE-951F-6700AF785186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B93A33B-0391-47BE-951F-6700AF785186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B93A33B-0391-47BE-951F-6700AF785186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B93A33B-0391-47BE-951F-6700AF785186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD96047-2445-44A4-9F39-37536632711C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD96047-2445-44A4-9F39-37536632711C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD96047-2445-44A4-9F39-37536632711C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD96047-2445-44A4-9F39-37536632711C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CCDF6AA-BA03-4346-9B83-24B101C1401A}
+	EndGlobalSection
+EndGlobal
